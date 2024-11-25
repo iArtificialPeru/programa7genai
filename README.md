@@ -12,6 +12,16 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 ---
 
+## Canal de comunicacion
+
+Para mejorar la forma de comunicacion, envio de noticias y preguntas, usaremos el siguiente un servidor discord:
+
+Discord: [7genai](https://www.linkedin.com/in/mcotrina/)
+
+No olvides presentarte y ser cortés 
+
+---
+
 ## Temario
 
 1. **Modelos Fundacionales: Concepto y Paradigma de los Nuevos Modelos de Gran Tamaño**
