@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 Para mejorar la forma de comunicacion, envio de noticias y preguntas, usaremos el siguiente un servidor discord:
 
-Discord: [7genai](https://discord.gg/ZQcbtvqE)
+Discord: [7genai](https://discord.gg/tkVWJHgzgH) 
 
 No olvides presentarte y ser cortés 
 
