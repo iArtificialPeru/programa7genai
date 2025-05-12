@@ -2,6 +2,8 @@
 
 Bienvenido al programa de 7 clases gratuito de **Inteligencia Artificial Generativa con modelos de gran tamaño**. Este curso está diseñado para aquellos que desean empezar desde cero y comprender los fundamentos de los modelos de gran tamaño y su aplicación en proyectos prácticos. Cada clase tendrá una duración promedio de 20 minutos, con explicaciones claras y ejemplos de código en Google Colab.
 
+En desarrollo continuaremos desde la quincena de mayo
+
 ## Requisitos para el Curso
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
