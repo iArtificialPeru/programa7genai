@@ -101,8 +101,8 @@ Curso IA Generativa
 - **Clase 03 (Semana del 9 de Diciembre)**: Clase 03
 - **Clase 04 (Semana del 16 de Diciembre)**: Clase 04
 - **Clase 05 (Semana del 23 de Diciembre)**: Clase 05
-- **Clase 06 (Semana del 06 de Enero)**: Clase 06
-- **Clase 07 (Semana del 13 de Enero)**: Clase 07
+- **Clase 06 (Semana del 19 de mayo)**: Clase 06
+- **Clase 07 (Semana del 26 de mayo)**: Clase 07
 
 ---
 
