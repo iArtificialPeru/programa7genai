@@ -121,11 +121,12 @@ Para resolver dudas sobre cada clase, puedes dejar tus preguntas en los comentar
 
 ---
 
-## Autor
+## 🤝 Conecta conmigo
 
-**Miguel Cotrina**
+Gracias por revisar este repositorio.  
+Si te interesa colaborar, aprender más o invitarme a dar una charla, puedes escribirme o seguirme en LinkedIn:
 
-- LinkedIn: [mcotrina](https://www.linkedin.com/in/mcotrina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Cotrina-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mcotrina/)
 - Canal Youtube: [@macespinozaonline](https://www.youtube.com/@macespinozaonline)
 
-¡Gracias por participar en este programa! Espero que este viaje en el mundo de la inteligencia artificial generativa sea enriquecedor para todos.
+> IA & Data con propósito
