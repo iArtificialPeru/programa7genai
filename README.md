@@ -20,6 +20,8 @@ Para mejorar la forma de comunicacion, envio de noticias y preguntas, usaremos e
 
 Discord: [7genai](https://discord.gg/tkVWJHgzgH) 
 
+Playlist: [7GenAI](https://www.youtube.com/watch?v=xam_HMWYLdk&list=PL7XwdzTyl43l1bjjWnbQW6hV7z73J4vq-)
+
 No olvides presentarte y ser cortés 
 
 ---
@@ -29,30 +31,37 @@ No olvides presentarte y ser cortés
 1. **Modelos Fundacionales: Concepto y Paradigma de los Nuevos Modelos de Gran Tamaño**
    - Descripción: Introducción teórica a los modelos de gran tamaño, explorando su uso en la nube y localmente.
    - Ejemplo: Uso básico de un modelo usando la API de OpenAI y despliegue de un modelo on site.
+   -  [Sesion01](https://youtu.be/xam_HMWYLdk)
 
 2. **Frameworks para los Modelos de Gran Tamaño**
    - Descripción: Exploración de los principales frameworks y sus características para trabajar con modelos de gran tamaño.
    - Ejemplo: Comparación entre el uso de LangChain y el trabajo sin un framework.
+   - [Sesion02](https://youtu.be/YGAce_WmWyg)
 
 3. **Concepto de Cadenas en LangChain y sus Tipos**
    - Descripción: Explicación del concepto de cadenas y sus beneficios en el control de interacciones en LangChain.
    - Ejemplo: Creación de una cadena sencilla y su funcionamiento.
+   - [Sesion03](https://youtu.be/PvPuxM-aHWI)
 
 4. **Agentes y Herramientas en LangChain**
    - Descripción: Introducción a los agentes en LangChain y su rol junto con las herramientas.
    - Ejemplo: Construcción de un agente con herramientas básicas para resolver tareas simples.
+   - [Sesion04](https://youtu.be/UyuHf1Iipw8)
 
 5. **Entendiendo las Herramientas y sus métodos de Implementación**
    - Descripción: Entender los diferentes métodos de implementación de herramientas en langchain.
    - Ejemplo: Implementación de los diferentes métodos de implementación de herramientas
+   - [Sesion05](https://youtu.be/v76eow70pcg)
 
 6. **RAG (Retrieval-Augmented Generation): Enriqueciendo a los Modelos LLM**
    - Descripción: Explicación de RAG y su importancia para mejorar respuestas mediante información personalizada.
    - Ejemplo: Implementación de RAG en un caso de uso.
+   - [Sesion06](https://youtu.be/S0lR8pF1_ME)
 
 7. **Resumen del Curso y Recomendaciones para Continuar el Aprendizaje**
    - Descripción: Resumen de conceptos, sugerencias de aprendizaje y orientación en proyectos prácticos.
    - Actividad Final: Preguntas y respuestas, consejos sobre aplicaciones prácticas de lo aprendido.
+   - [Sesion07]()
 
 ---
 
