@@ -61,7 +61,7 @@ No olvides presentarte y ser cortés
 7. **Resumen del Curso y Recomendaciones para Continuar el Aprendizaje**
    - Descripción: Resumen de conceptos, sugerencias de aprendizaje y orientación en proyectos prácticos.
    - Actividad Final: Preguntas y respuestas, consejos sobre aplicaciones prácticas de lo aprendido.
-   - [Sesion07]()
+   - Pendiente
 
 ---
 
