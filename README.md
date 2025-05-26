@@ -20,7 +20,7 @@ Para mejorar la forma de comunicacion, envio de noticias y preguntas, usaremos e
 
 Discord: [7genai](https://discord.gg/tkVWJHgzgH) 
 
-Playlist: [7GenAI](https://www.youtube.com/watch?v=xam_HMWYLdk&list=PL7XwdzTyl43l1bjjWnbQW6hV7z73J4vq-)
+Playlist: [7GenAI](https://www.youtube.com/playlist?list=PL7XwdzTyl43l1bjjWnbQW6hV7z73J4vq-)
 
 No olvides presentarte y ser cortés 
 
